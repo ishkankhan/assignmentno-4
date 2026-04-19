@@ -1,0 +1,38 @@
+
+   
+
+
+.Box {
+    width: 31.5vw;
+    position: fixed;
+    height: 40vh;
+    border: 0.1vw solid black;
+    box-sizing: border-box;
+    margin: 31vh 31vh 29vh 60vh ;
+
+} 
+
+
+.imag {
+   
+    width: 59vh;
+    height: 32vh; 
+    display: block;
+   
+} 
+
+
+.Butt {
+    margin-bottom: 5vh;
+    width: 31.5vw;
+    height: 8vh;
+    color: white;
+   
+    background: linear-gradient(to right, orange, red);
+    font-size: 4vh;
+    
+}
+.Butt:hover {
+    background: linear-gradient(to right, #ff0000, #ff8c00);
+    
+}
